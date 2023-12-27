@@ -10,7 +10,7 @@ int matr[10][10],trix[10][10];
 
 //input m dan n untuk data dimensi matrix
 cout << "Input jumlah Baris: ";
-cin >> m;// data disimpan n
+cin >> m;// data disimpan m
 cout << "Input jumlah kolom: ";
 cin >> n;// data disimpan n
 
